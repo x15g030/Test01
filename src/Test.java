@@ -5,6 +5,7 @@ public class Test {
 		// TODO 自動生成されたメソッド・スタブ
 		System.out.println("Gitテスト");
 		System.out.println("追加");
+		System.out.println("枝分かれ");
 	}
 
 }
